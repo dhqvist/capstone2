@@ -138,13 +138,10 @@ hr {
 .contact-me > h2,
 h3,
 p {
-  padding-bottom: 40px;
+  padding-bottom: 1rem;
 }
 h3 {
   color: rgb(233, 97, 19);
-}
-.contact-me > p {
-  margin-bottom: 10px;
 }
 
 .button {
@@ -186,7 +183,6 @@ h3 {
   color: white;
   width: 100%;
   text-align: center;
-  padding-top: 1vh;
   margin-top: auto;
 }
 
@@ -195,20 +191,13 @@ h3 {
   justify-content: center;
   align-items: center;
   gap: 10rem;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
 }
 
-.linkenin {
-  padding-top: 30px;
-}
-.twitter {
-  padding-top: 30px;
-}
-.web {
-  padding-top: 30px;
-}
 .copy {
   color: black;
-  padding-top: 20px;
+
   font-size: 18px;
   opacity: 0.7;
 }
